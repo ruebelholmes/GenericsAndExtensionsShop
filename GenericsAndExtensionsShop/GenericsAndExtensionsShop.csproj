@@ -48,6 +48,7 @@
     <Compile Include="RaceCar.cs" />
     <Compile Include="Sedan.cs" />
     <Compile Include="Shop.cs" />
+    <Compile Include="ShopExtensions.cs" />
     <Compile Include="Trucks.cs" />
     <Compile Include="Vehicle.cs" />
   </ItemGroup>

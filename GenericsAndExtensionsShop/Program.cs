@@ -11,8 +11,12 @@ namespace GenericsAndExtensionsShop
         static void Main(string[] args)
         {
             Sedan s = new Sedan();
+
             Trucks t = new Trucks();
+
             RaceCar rc = new RaceCar();
+
+
         }
     }
 }
